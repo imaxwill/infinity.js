@@ -1,4 +1,4 @@
-# infinity.js
+infinity.js
 ---
 ***Information:***
 <br>
